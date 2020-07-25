@@ -1,0 +1,43 @@
+{
+  "name": "EventTic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "firebase": "^7.16.0",
+    "fs-extra": "^9.0.1",
+    "mysql": "^2.18.1",
+    "next": "^9.4.4",
+    "next-routes": "^1.4.2",
+    "qrcode": "^1.4.4",
+    "qrcode-decoder": "^0.1.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-qr-code": "^1.0.2",
+    "react-qr-scanner": "0.0.9",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.2",
+    "serverless-mysql": "^1.5.4",
+    "solc": "^0.4.19",
+    "sql-template-strings": "^2.2.2",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.26"
+  }
+}

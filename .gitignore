@@ -1,0 +1,8 @@
+.*
+!/.gitignore
+bin/
+ethereum/contracts
+ethereum/compile.js
+ethereum/deploy.js
+ethereum/test
+node_modules/
