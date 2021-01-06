@@ -20,7 +20,7 @@
     "os": false
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "firebase": "^7.16.0",
     "fs-extra": "^9.0.1",
     "mysql": "^2.18.1",
